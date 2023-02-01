@@ -1,6 +1,6 @@
 # Juego Set
 ### Proyecto Introducción a la Programación curso 2021/2022 UEx
-
+##El proyecto obtuvo la calificación máxima en la convocatoria de Enero
 Set es un juego de mesa para uno o más jugadores. Se pueden encontrar muchas versiones distintas para jugar en un
 navegador o en el móvil.
 Por ejemplo, https://smart-games.org/en/set/submit_set.
